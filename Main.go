@@ -2,6 +2,7 @@ package main
 
 import (
     // Specify the username that you used inside github.com folder
+    "system_document/models"
     "github.com/uadmin/uadmin"
 )
 
