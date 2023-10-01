@@ -1,4 +1,4 @@
-# # Deplay Requirements:
+# # Deploy Requirements:
 
 # Go Version 1.16 or later
 
