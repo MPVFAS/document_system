@@ -14,9 +14,10 @@ $ go install github.com/uadmin/uadmin/cmd/uadmin@latest
 $ uadmin
 <br>
 Usage: uadmin COMMAND [--src]
+<br>
 This tools helps you prepare a folder for a new project or update static files and templates
-#
-Commands:
+<br>
+# Commands:
  -- prepare         Generates folders and prepares static and templates
  -- version         Shows the version of uAdmin
 
@@ -68,13 +69,20 @@ $ go build; ./document_system
 <br>
 <br>
 [   OK   ]   Initializing DB: [14/14]
+<br>
 [   OK   ]   Initializing Languages: [185/185]
+<br>
 [  INFO  ]   Auto generated admin user. Username:admin, Password:admin.
+<br>
 [   OK   ]   Synching System Settings: [49/49]
+<br>
 [   OK   ]   Server Started: http://0.0.0.0:8080
+<br>
 ##
          ___       __          _
   __  __/   | ____/ /___ ___  (_)___
  / / / / /| |/ __  / __ '__ \/ / __ \
 / /_/ / ___ / /_/ / / / / / / / / / /
 \__,_/_/  |_\__,_/_/ /_/ /_/_/_/ /_/
+
+##
